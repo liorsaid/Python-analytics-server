@@ -1,0 +1,1 @@
+Backend event-processing service built with Python, FastAPI, and SQLite. Provides REST APIs for storing and retrieving events, includes concurrent load testing with joblib, and is packaged with Docker and deployed to Azure.
